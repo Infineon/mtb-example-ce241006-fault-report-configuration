@@ -4,12 +4,12 @@ This code example demonstrates how to configure the fault subsystem and describe
 
 [View this README on GitHub.](https://github.com/Infineon/mtb-example-ce241006-fault-report-configuration)
 
-[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDEwMDYiLCJTcGVjIE51bWJlciI6IjAwMi00MTAwNiIsIkRvYyBUaXRsZSI6IlBETDogRmF1bHQgcmVwb3J0IGNvbmZpZ3VyYXRpb24iLCJyaWQiOiJzYXRvcyIsIkRvYyB2ZXJzaW9uIjoiMS4wLjAiLCJEb2MgTGFuZ3VhZ2UiOiJFbmdsaXNoIiwiRG9jIERpdmlzaW9uIjoiTUNEIiwiRG9jIEJVIjoiQVVUTyIsIkRvYyBGYW1pbHkiOiJBVVRPIFBTT0MifQ==)
+[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDEwMDYiLCJTcGVjIE51bWJlciI6IjAwMi00MTAwNiIsIkRvYyBUaXRsZSI6IlBETDogRmF1bHQgcmVwb3J0IGNvbmZpZ3VyYXRpb24iLCJyaWQiOiJzYXRvcyIsIkRvYyB2ZXJzaW9uIjoiMS4xLjAiLCJEb2MgTGFuZ3VhZ2UiOiJFbmdsaXNoIiwiRG9jIERpdmlzaW9uIjoiTUNEIiwiRG9jIEJVIjoiQVVUTyIsIkRvYyBGYW1pbHkiOiJBVVRPIFBTT0MifQ==)
 
 
 ## Requirements
 
-- [ModusToolbox&trade;](https://www.infineon.com/modustoolbox) v3.2 or later (tested with v3.2)
+- [ModusToolbox&trade;](https://www.infineon.com/modustoolbox) v3.4 or later (tested with v3.4)
 - Board support package (BSP) minimum required version: 3.1.0
 - Programming language: C
 - Associated parts:  [PSOC&trade; 4 HV MCU](https://www.infineon.com/cms/en/product/microcontroller/32-bit-psoc-arm-cortex-microcontroller/32-bit-psoc-4-hv-arm-cortex-m0/)
@@ -261,9 +261,10 @@ Infineon provides a wealth of data at [www.infineon.com](https://www.infineon.co
 
 Document title: *CE241006* – *Fault report configuration*
 
-Version | Description of change
-------- | ---------------------
-1.0.0   | New code example
+ Version | Description of change
+ ------- | ---------------------
+ 1.0.0   | New code example
+ 1.1.0   | Changed PSoC HV MS kit name to PSOC4 and updated to support ModusToolbox&trade; v3.4.
 <br>
 
 
